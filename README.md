@@ -3,7 +3,7 @@ This repository demonstrates a complete data analysis pipeline for electric car 
 ​
 
 Data Sources
-Raw data resides in "Electric-car-sales.xlsx", featuring columns like id, martialstatus, gender, income, children, education, occupation, homeowner, cars, commutedistance, region, age, agecategory, and purchasedelectriccar. Snippets reveal inconsistencies like varying capitalization in "martialstatus" (likely "marital status"), "commutedistance" spellings ("0-1 miles" vs "0-1 Miles"), and "More then 10 Miles".
+Raw data resides in "Electric-car-sales-dataset.xlsx", featuring columns like id, martialstatus, gender, income, children, education, occupation, homeowner, cars, commutedistance, region, age, agecategory, and purchasedelectriccar. Snippets reveal inconsistencies like varying capitalization in "martialstatus" (likely "marital status"), "commutedistance" spellings ("0-1 miles" vs "0-1 Miles"), and "More then 10 Miles".
 ​
 
 Cleaned version in "Data-cleaned.xlsx" standardizes these fields for analysis, maintaining the same structure but with consistent formatting across entries.
